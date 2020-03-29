@@ -28,8 +28,8 @@
   border-radius: 25px;
   background: transparent;
   border: 2px solid white;
-  width: 25%;
   color: white;
+  width: 75%;
   -webkit-transition: .5s;
   transition: .5s;
 }
