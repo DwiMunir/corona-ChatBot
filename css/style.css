@@ -1,0 +1,80 @@
+.navbar .navbar-brand img {
+  width: 160px;
+}
+
+.home {
+  min-height: 500px;
+  background: linear-gradient(105.31deg, #0351B5 37.11%, #4AB6FF 93.5%);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.home .col-12 {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.home .col-12 p {
+  font-size: calc();
+  letter-spacing: 3px;
+}
+
+.home .col-12 form input {
+  border-radius: 25px;
+  background: transparent;
+  border: 2px solid white;
+  width: 25%;
+  color: white;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.home .col-12 form input::-webkit-input-placeholder {
+  color: white;
+}
+
+.home .col-12 form input:-ms-input-placeholder {
+  color: white;
+}
+
+.home .col-12 form input::-ms-input-placeholder {
+  color: white;
+}
+
+.home .col-12 form input::placeholder {
+  color: white;
+}
+
+.home .col-12 form input:hover, .home .col-12 form input:focus {
+  -webkit-box-shadow: 0 0 25px white;
+          box-shadow: 0 0 25px white;
+}
+
+.home .col-12 form button {
+  background: transparent;
+  -webkit-transition: .3s;
+  transition: .3s;
+  border: 2px solid white;
+  color: white;
+}
+
+.home .col-12 form button:hover {
+  color: #4AB6FF;
+  background: white;
+  -webkit-box-shadow: 0 0 25px white;
+          box-shadow: 0 0 25px white;
+}
+
+.carousel .carousel-inner .carousel-item img {
+  width: 50%;
+}
+
+.gejala {
+  background: blue;
+}
+/*# sourceMappingURL=style.css.map */
